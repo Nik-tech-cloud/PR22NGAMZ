@@ -1,16 +1,16 @@
-#Uvod 
+# Uvod 
 
 Za seminarsko nalogo smo se odločili, uporabiti podatke iz spletne stani podatki.gov.si. Za problem smo si izbrali kazniva dejanja (od zdaj naprej bo označeno z kratico KD), saj menimo, da se na podlagi tovrstnih podatkov lahko naredi veliko uporabnih statistik in napovedi. Tema kaznivih dejanj pa je prav tako zelo zanimivo področje, ki hitro pritegne pozornost tako strokovnjakov kot splošne publike.
 
-#Opis problema 
+# Opis problema 
 
 Že samo ime KD nam pove skoraj vse o opisu problema. Zbirka KD vsebuje skoraj vsa KD, ki so se zgodila v Sloveniji v preteklih nekaj letih. Na spletni strani podatki.gov.si so zbirke KD razdeljene na posamezne datoteke, ki se delijo glede na leto storitve KD. V posameznih datotekah pa lahko najdemo tabelo KD in podrobnosti o datoteki. 
 
-#Tabela kaznivih dejanj
+# Tabela kaznivih dejanj
 
 Tabela kaznivih dejanj vsebuje številne podrobnosti o vsakem kaznivem dejanju. Nekatere vrednosti v tabeli so odsotne (tu lahko predpostavimo, da informacija manjka ali pa kot v primeru mladoletnih storilcev kriminalnih aktivnosti, podatek ni vpisan in njegova odsotnost pomeni, da je kaznivo dejanje storila ne-mladoletna oseba).
 
-#Stolpci
+# Stolpci
 
 Stolpci si sledijo v naslednjem vrstnem redu:
 1.	Zaporedna številka KD
@@ -48,14 +48,14 @@ Stolpci si sledijo v naslednjem vrstnem redu:
 33.	Škoda v eur
 
 
-#Statistike
+# Statistike
 
 Iz zgoraj navedenih podatkov lahko pridobimo številne koristne statistike, ki odgovarajo na slednja vprašanja. Katera je najbolj nevarna občina? Kdaj se kriminali najpogosteje odvajajo (podnevi-ponoči)? Kako pogosto so v kriminal vpleteni mladostniki in v kakšen kriminal posegajo? Kako se kriminal odvija tekom tedna? Ali lahko v kriminalu vidimo vzorce (vikend ob 10.00 v občini x)?
 
-#Napovedovanje
-
+# Napovedovanje
+ 
 Velik cilj naše ekipe je razviti sistem za napovedovanje kriminala.  Ta sistem bi lahko eventualno pomagal policijskim upravam, ki bi lahko lažje in bolj učinkovito organizirali svoje sile in te skoncentrirali na območja, kjer bi sistem napovedoval dvig kriminala.
 
-#Zaključek
+# Zaključek
 
 Menimo, da so podatki dovolj obsežni in zanimivi, da lahko iz njih napravimo mnogo zanimivih statistik in vizualizacij. Tudi če izključimo mehansko učenje iz enačbe lahko napravimo številne uporabne statistike, katerih se lahko držijo državljani republike Slovenije in se s tem izognejo morebitni tatvini, umoru, itd. Upamo da bo naš predlog sprejet, v kolikor imate kakršno koli vprašanje ali zadrego o temi lahko kar preko spletne učilnice obvestite našo skupino. 
