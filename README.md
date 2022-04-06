@@ -1,0 +1,1 @@
+14 oddamo poročilo.
